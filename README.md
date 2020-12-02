@@ -1,6 +1,6 @@
 ### Here we up 👋
 
-![giphy](https://user-images.githubusercontent.com/22732544/91681798-f120d700-eb25-11ea-8480-75839136dbfe.gif)
+<div width="100%" style="position:relative;"><img  width="100%" src="https://user-images.githubusercontent.com/22732544/100836999-1556c180-344f-11eb-957e-8d4c7b54ee0a.gif"/></div>
 
 ### Basic Info
 
