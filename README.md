@@ -8,14 +8,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bestfastfire&count_private=true&show_icons=true" alt="Bestfastfire" />
 </a>
 <a href="https://github.com/Bestfastfire">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bestfastfire" alt="Bestfastfire" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bestfastfire&layout=compact" alt="Bestfastfire" />
 </a>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with ... Flutter
-- 🌱 I’m currently learning ... Swift
-- 📫 How to reach me: ... [Clean Code](https://cleancode.dev)
+- 🔭 I’m currently working with Flutter
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me: [Clean Code](https://cleancode.dev)
 
 
 ### Would you like to know a little about my work?
