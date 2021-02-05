@@ -5,7 +5,10 @@
 ### Basic Info
 
 <a href="https://github.com/Bestfastfire">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bestfastfire&show_icons=true" alt="Bestfastfire" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bestfastfire&count_private=true&show_icons=true" alt="Bestfastfire" />
+</a>
+<a href="https://github.com/Bestfastfire">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bestfastfire" alt="Bestfastfire" />
 </a>
 
 Here are some ideas to get you started:
@@ -20,6 +23,6 @@ Here are some ideas to get you started:
 
 ## Help Maintenance
 
-I've been maintaining quite many repos these days and burning out slowly. If you could help me cheer up, buying me a cup of coffee will make my life really happy and get much energy out of it.
+<p align='justify'>I've been maintaining quite many repos these days and burning out slowly. If you could help me cheer up, buying me a cup of coffee will make my life really happy and get much energy out of it.<p>
 
 <a href="https://www.buymeacoffee.com/RtrHv1C" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" /></a>
