@@ -8,7 +8,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bestfastfire&count_private=true&show_icons=true" alt="Bestfastfire" />
 </a>
 <a href="https://github.com/Bestfastfire">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bestfastfire&layout=compact" alt="Bestfastfire" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=woton&layout=compact" alt="Bestfastfire" />
 </a>
 
 Here are some ideas to get you started:
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### Would you like to know a little about my work?
-<a href="https://play.google.com/store/apps/details?id=com.cleancode.kcalcount">Download my APP on Playstore</a>
+<a href="https://play.google.com/store/apps/details?id=com.cleancode.kcalcount">Kcal Count</a>
 
 ## Help Maintenance
 
