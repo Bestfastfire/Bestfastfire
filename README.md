@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 ### Would you like to know a little about my work?
-<p><img src="https://play-lh.googleusercontent.com/7kzyWVUmkJDSmqGEurxS60KB0uaLfgyBKMYCITf7WkEWkjhqL8vVIssTDYzO4cSeZSZY=s180-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=insidetechnology.studio.ostdor.anestesiaanimal">PlayStore</a> / <a href="https://apps.apple.com/us/app/anestesia-animal/id1491541786">AppleStore</a></p>
+<p><img src="https://play-lh.googleusercontent.com/7kzyWVUmkJDSmqGEurxS60KB0uaLfgyBKMYCITf7WkEWkjhqL8vVIssTDYzO4cSeZSZY=s180-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=insidetechnology.studio.ostdor.anestesiaanimal">PlayStore</a> / <a href="https://apps.apple.com/us/app/anestesia-animal/id1491541786">App Store</a></p>
 
-<p><img src="https://play-lh.googleusercontent.com/YpD1EKuqrXatA32rBaY00yIc9rIpnyLIRlP4SP-3zDnKsZ3hy08ckTGAHhJRBby69w=s180-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=com.cleancode.cordenadordecampanha">PlayStore</a> / <a href="https://apps.apple.com/us/app/coordenador-digital/id1528545207">AppleStore</a></p>
+<p><img src="https://play-lh.googleusercontent.com/YpD1EKuqrXatA32rBaY00yIc9rIpnyLIRlP4SP-3zDnKsZ3hy08ckTGAHhJRBby69w=s180-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=com.cleancode.cordenadordecampanha">PlayStore</a> / <a href="https://apps.apple.com/us/app/coordenador-digital/id1528545207">App Store</a></p>
 
 <p><img src="https://play-lh.googleusercontent.com/cTh15qT-2sqW_tzJQzT6Icb5Q9CCIGR-f7T_z4Zgj6Y21RO-OPfDWwTF97dGlW9cewqW=s180-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=com.cleancode.dentistadecavalo">PlayStore</a></p>
 
