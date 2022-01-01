@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Flutter
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me: [Clean Code](https://cleancode.dev)
 
 
 ### Would you like to know a little about my work?
@@ -32,3 +31,10 @@ Here are some ideas to get you started:
 <p align='justify'>I've been maintaining quite many repos these days and burning out slowly. If you could help me cheer up, buying me a cup of coffee will make my life really happy and get much energy out of it.<p>
 
 <a href="https://www.buymeacoffee.com/RtrHv1C" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=RtrHv1C&button_colour=FFA07A&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+## Contact
+[![woton-sampaio-a66302166](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/woton-sampaio-a66302166/)
+[![woton-sampaio-a66302166](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/woton_sampaio)
+[![woton-sampaio-a66302166](https://img.shields.io/badge/E&minus;mail-0077B5?style=for-the-badge&logo=email&logoColor=white)](mailto:wotoncf@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=Bestfastfire&color=0077B5&style=flat)
