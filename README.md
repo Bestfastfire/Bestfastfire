@@ -1,4 +1,4 @@
-### Here we up 👋
+### Whats up 👋
 
 <div width="100%" style="position:relative;"><img  width="100%" src="https://user-images.githubusercontent.com/22732544/100836999-1556c180-344f-11eb-957e-8d4c7b54ee0a.gif"/></div>
 
