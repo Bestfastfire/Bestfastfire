@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 <p><img src="https://play-lh.googleusercontent.com/cTh15qT-2sqW_tzJQzT6Icb5Q9CCIGR-f7T_z4Zgj6Y21RO-OPfDWwTF97dGlW9cewqW=s180-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=com.cleancode.dentistadecavalo">PlayStore</a> / <a href="https://apps.apple.com/us/app/dentista-de-cavalo/id1547887955">App Store</a></p>
 
-<p><img src="https://play-lh.googleusercontent.com/qq1H7kUf8sSqEqvPDNR9AQEvjcQMnFfFie4dID7TffgM8HskbkNOqHDhksrop1xfMw=s180-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=com.cleancode.kcalcount">PlayStore</a></p>
+<p><img src="https://play-lh.googleusercontent.com/KJWGurang7eh8_AJwemudtUh9HPvCUTNEEBWbVzKmLRNFu2krcRp34eWI7hkPj9VZKU=w240-h480-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=com.cleancode.forca">PlayStore</a> / <a href="https://apps.apple.com/us/app/a-forca/id6453520578">App Store</a></p>
+
+<p><img src="https://play-lh.googleusercontent.com/qq1H7kUf8sSqEqvPDNR9AQEvjcQMnFfFie4dID7TffgM8HskbkNOqHDhksrop1xfMw=s180-rw" width="25" height="25" style="vertical-align:bottom">&ensp; <a href="https://play.google.com/store/apps/details?id=com.cleancode.kcalcount">PlayStore</a> / <a href="https://apps.apple.com/us/app/kcal-count/id1599597743">App Store</a></p>
 
 ## Help Maintenance
 
